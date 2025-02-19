@@ -41,9 +41,11 @@ A feature-rich **Netflix Clone** built with React, using TMDB API to fetch and d
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/homepage.png)
-![Login Page](./screenshots/login-page.png)
-![Movie Player](./screenshots/player.png)
+![Login Page](screenshots/login.jpg)
+![Home Page1](screenshots/home1.jpg)
+![Home Page2](screenshots/home2.jpg)
+![Footer Page](screenshots/footer.jpg)
+![PlayVideo Page](screenshots/playvideo.jpg)
 
 
 ## 🤝 Contributing
